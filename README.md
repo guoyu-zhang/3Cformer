@@ -36,3 +36,5 @@ The overall architecture of our proposed approach, building upon PatchTST by inc
 Our model outperforms PatchTST for MLTSF on datasets that contain many highly correlated features, but has mixed performance, relative to PatchTST, on datasets with less correlated features. This is analysed in detail in our paper.
 
 <img src="results.png" alt="Results" width="1000">
+
+
